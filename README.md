@@ -27,3 +27,7 @@ Flutter, React, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
 ### Contributing
 #
 ![Shamim Miah github stats](https://github-readme-stats.vercel.app/api?username=shamimmiah&theme=nightowl&show_icons=true)
+
+### Programing Languages:
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimmiah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
