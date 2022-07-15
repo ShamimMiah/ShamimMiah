@@ -2,9 +2,9 @@
 - 👀 I’m interested in Blockchain Technology & Flutter ...
 - 🌱 I’m currently learning  Blockchain Technology for implementing any projects...
 - 📫 How to reach me ...
-  #
   
 ### Stacks
+#
 <div style="display: inline_block"><br>
   <p align = "center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,6 +18,6 @@
   </p>
 </div> 
   
-  #
-🛠 Skills
+### 🛠 Skills
+#
 Flutter, React, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
