@@ -21,3 +21,8 @@
 ### 🛠 Skills
 #
 Flutter, React, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
+
+### ⭐ Badges
+#
+### Contributing
+#
