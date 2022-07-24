@@ -40,7 +40,7 @@ Hello, I am Shamim Miah.I am an enthusiastic and interested person in blockchain
 
 ### Contact With Me :
 - [Gmail](mailto:cse.shamimmiaht@gmail.com)
-- [Discord](https://discord.com/channels/@ShamimMiah#1418)
+- [Discord](https://discord.com/channels/@ShamimMiah#0105)
 - [Linkedin](https://www.linkedin.com/in/cseshamimosmanpailot/)
 - [Skype](https://join.skype.com/invite/X4BJi0vQTPDQ)
 - [Facebook](https://facebook.com/cse.shamimosmanpailot)
